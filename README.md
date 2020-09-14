@@ -5,7 +5,7 @@
 
 ## I'm a Developer, AI enthusiastic and Student!
 
-- 🔭 I’m currently working on a [Pytorch][website]!
+- 🔭 I’m currently working on a [Vehicular Networks][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m finishing my Master's in Distributed Systems
 - 🥅 2020 Goals: Contribute more to Open Source projects & create more interesting poc's
