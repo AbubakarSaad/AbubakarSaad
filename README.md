@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on a [Pytorch][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m finishing my Master's in Distributed Systems
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to code random ideas, workout and play piano
+- 🥅 2020 Goals: Contribute more to Open Source projects & create more interesting poc's
+- ⚡ Fun fact: I love to code interesting poc's, workout and play piano
 
 <!-- ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
